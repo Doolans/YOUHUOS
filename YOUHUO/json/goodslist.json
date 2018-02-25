@@ -1,0 +1,304 @@
+[
+    {   
+        "id":1001,
+        "img":"images/goodslist/list1.jpg",  
+        "title" :"ROCOCO",
+        "s-img":["images/goodslist/list1-s.jpg"],
+        "text": "ROCOCO洛可可 撞色条纹小高领针织衫",
+        "dpj": "￥369.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 339.00
+        },
+        "color":"黑白条",
+        "colorimg" : "images/goodslist/list1-ss.jpg",
+        "size": ["S","M","L"]  
+    },
+    {
+        "id":1002,
+        "img":"images/goodslist/list2.jpg",
+        "title" :"Epiphqny",
+        "s-img":["images/goodslist/list2-s.jpg"],
+        "text": "Epiphqny 黑白纹理印花双肩包",
+        "dpj": "￥269.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 79.00
+        },
+        "color":"白色纹理",
+        "colorimg" : "images/goodslist/list2-ss.jpg",
+        "size": ["F"]  
+    },
+    {
+        "id":1003,
+        "img":"images/goodslist/list3-b-1.jpg",
+        "title" :"Beastie",
+        "s-img":["images/goodslist/list3-s-1.jpg","images/goodslist/list3-s-2.jpg"],
+        "b-img":["images/goodslist/list3-b-1.jpg","images/goodslist/list3-b-2.jpg"],
+        "text": "Beastie 多色丝网绿色印花长袖连帽卫衣",
+        "dpj": "￥489.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 489.00
+        },
+        "color":"绿色",
+        "colorimg" : "images/goodslist/list3-ss.jpg",
+        "size": ["XL","L","M","S"]
+    },
+    {
+        "id":1004,
+        "img":"images/goodslist/list4.jpg",
+        "title" :"Epiphqny",
+        "s-img":["images/goodslist/list4-s.jpg"],
+        "text": "Epiphqny 撞色几何印花双肩包",
+        "dpj": "￥269.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 79.00
+        },
+        "color":"白色形状",
+        "colorimg" : "images/goodslist/list4-ss.jpg",
+        "size": ["F"]
+    },
+    {   
+        "id":1005,
+        "img":"images/goodslist/list1.jpg",  
+        "title" :"ROCOCO",
+        "s-img":["images/goodslist/list1-s.jpg"],
+        "text": "ROCOCO洛可可 撞色条纹小高领针织衫",
+        "dpj": "￥369.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 339.00
+        },
+        "color":"黑白条",
+        "colorimg" : "images/goodslist/list1-ss.jpg",
+        "size": ["S","M","L"]
+    },
+    {
+        "id":1006,
+        "img":"images/goodslist/list2.jpg",
+        "title" :"Epiphqny",
+        "s-img":["images/goodslist/list2-s.jpg"],
+        "text": "Epiphqny 黑白纹理印花双肩包",
+        "dpj": "￥269.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 79.00
+        },
+        "color":"白色纹理",
+        "colorimg" : "images/goodslist/list2-ss.jpg",
+        "size": ["F"]  
+    },
+    {
+        "id":1007,
+        "img":"images/goodslist/list3-b-1.jpg",
+        "title" :"Beastie",
+        "s-img":["images/goodslist/list3-s-1.jpg","images/goodslist/list3-s-2.jpg"],
+        "b-img":["images/goodslist/list3-b-1.jpg","images/goodslist/list3-b-2.jpg"],
+        "text": "Beastie 多色丝网绿色印花长袖连帽卫衣",
+        "dpj": "￥489.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 489.00
+        },
+        "color":"lvse",
+        "colorimg" : "images/goodslist/list3-ss.jpg",
+        "size": ["S","M","L","XL"]
+    },
+    {
+        "id":1008,
+        "img":"images/goodslist/list4.jpg",
+        "title" :"Epiphqny",
+        "s-img":["images/goodslist/list4-s.jpg"],
+        "text": "Epiphqny 撞色几何印花双肩包",
+        "dpj": "￥269.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 79.00
+        },
+        "color":"白色形状",
+        "colorimg" : "images/goodslist/list4-ss.jpg",
+        "size": ["F"]
+    },  {   
+        "id":1009,
+        "img":"images/goodslist/list1.jpg",  
+        "title" :"ROCOCO",
+        "s-img":["images/goodslist/list1-s.jpg"],
+        "text": "ROCOCO洛可可 撞色条纹小高领针织衫",
+        "dpj": "￥369.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 339.00
+        },
+        "color":"黑白条",
+        "colorimg" : "images/goodslist/list1-ss.jpg",
+        "size": ["S","M","L"]  
+    },
+    {
+        "id":1010,
+        "img":"images/goodslist/list2.jpg",
+        "title" :"Epiphqny",
+        "s-img":["images/goodslist/list2-s.jpg"],
+        "text": "Epiphqny 黑白纹理印花双肩包",
+        "dpj": "￥269.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 79.00
+        },
+        "color":"白色纹理",
+        "colorimg" : "images/goodslist/list2-ss.jpg",
+        "size": ["F"]  
+    },
+    {
+        "id":1011,
+        "img":"images/goodslist/list3-b-1.jpg",
+        "title" :"Beastie",
+        "s-img":["images/goodslist/list3-s-1.jpg","images/goodslist/list3-s-2.jpg"],
+        "b-img":["images/goodslist/list3-b-1.jpg","images/goodslist/list3-b-2.jpg"],
+        "text": "Beastie 多色丝网绿色印花长袖连帽卫衣",
+        "dpj": "￥489.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 489.00
+        },
+        "color":"lvse",
+        "colorimg" : "images/goodslist/list3-ss.jpg",
+        "size": ["S","M","L","XL"]
+    },
+    {
+        "id":1012,
+        "img":"images/goodslist/list4.jpg",
+        "title" :"Epiphqny",
+        "s-img":["images/goodslist/list4-s.jpg"],
+        "text": "Epiphqny 撞色几何印花双肩包",
+        "dpj": "￥269.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 79.00
+        },
+        "color":"白色形状",
+        "colorimg" : "images/goodslist/list4-ss.jpg",
+        "size": ["F"]
+    },  {   
+        "id":1013,
+        "img":"images/goodslist/list1.jpg",  
+        "title" :"ROCOCO",
+        "s-img":["images/goodslist/list1-s.jpg"],
+        "text": "ROCOCO洛可可 撞色条纹小高领针织衫",
+        "dpj": "￥369.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 339.00
+        },
+        "color":"黑白条",
+        "colorimg" : "images/goodslist/list1-ss.jpg",
+        "size": ["S","M","L"]  
+    },
+    {
+        "id":1014,
+        "img":"images/goodslist/list2.jpg",
+        "title" :"Epiphqny",
+        "s-img":["images/goodslist/list2-s.jpg"],
+        "text": "Epiphqny 黑白纹理印花双肩包",
+        "dpj": "￥269.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 79.00
+        },
+        "color":"白色纹理",
+        "colorimg" : "images/goodslist/list2-ss.jpg",
+        "size": ["F"]  
+    },
+    {
+        "id":1015,
+        "img":"images/goodslist/list3-b-1.jpg",
+        "title" :"Beastie",
+        "s-img":["images/goodslist/list3-s-1.jpg","images/goodslist/list3-s-2.jpg"],
+        "b-img":["images/goodslist/list3-b-1.jpg","images/goodslist/list3-b-2.jpg"],
+        "text": "Beastie 多色丝网绿色印花长袖连帽卫衣",
+        "dpj": "￥489.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 489.00
+        },
+        "color":"lvse",
+        "colorimg" : "images/goodslist/list3-ss.jpg",
+        "size": ["S","M","L","XL"]
+    },
+    {
+        "id":1016,
+        "img":"images/goodslist/list4.jpg",
+        "title" :"Epiphqny",
+        "s-img":["images/goodslist/list4-s.jpg"],
+        "text": "Epiphqny 撞色几何印花双肩包",
+        "dpj": "￥269.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 79.00
+        },
+        "color":"白色形状",
+        "colorimg" : "images/goodslist/list4-ss.jpg",
+        "size": ["F"]
+    },  {   
+        "id":1017,
+        "img":"images/goodslist/list1.jpg",  
+        "title" :"ROCOCO",
+        "s-img":["images/goodslist/list1-s.jpg"],
+        "text": "ROCOCO洛可可 撞色条纹小高领针织衫",
+        "dpj": "￥369.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 339.00
+        },
+        "color":"黑白条",
+        "colorimg" : "images/goodslist/list1-ss.jpg",
+        "size": ["S","M","L"]  
+    },
+    {
+        "id":1018,
+        "img":"images/goodslist/list2.jpg",
+        "title" :"Epiphqny",
+        "s-img":["images/goodslist/list2-s.jpg"],
+        "text": "Epiphqny 黑白纹理印花双肩包",
+        "dpj": "￥269.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 79.00
+        },
+        "color":"白色纹理",
+        "colorimg" : "images/goodslist/list2-ss.jpg",
+        "size": ["F"]  
+    },
+    {
+        "id":1019,
+        "img":"images/goodslist/list3-b-1.jpg",
+        "title" :"Beastie",
+        "s-img":["images/goodslist/list3-s-1.jpg","images/goodslist/list3-s-2.jpg"],
+        "b-img":["images/goodslist/list3-b-1.jpg","images/goodslist/list3-b-2.jpg"],
+        "text": "Beastie 多色丝网绿色印花长袖连帽卫衣",
+        "dpj": "￥489.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 489.00
+        },
+        "color":"lvse",
+        "colorimg" : "images/goodslist/list3-ss.jpg",
+        "size": ["S","M","L","XL"]
+    },
+    {
+        "id":1020,
+        "img":"images/goodslist/list4.jpg",
+        "title" :"Epiphqny",
+        "s-img":["images/goodslist/list4-s.jpg"],
+        "text": "Epiphqny 撞色几何印花双肩包",
+        "dpj": "￥269.00",
+        "priceinfo": {
+            "rmb": "￥",
+            "price" : 79.00
+        },
+        "color":"白色形状",
+        "colorimg" : "images/goodslist/list4-ss.jpg",
+        "size": ["F"]
+    }
+]

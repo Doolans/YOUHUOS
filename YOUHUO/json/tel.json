@@ -1,0 +1,39 @@
+[
+    {
+        "country":"中国",
+        "list":"+86"
+    },
+    {
+        "country":"文莱",
+        "list":"+77"
+    },
+    {
+        "country":"韩国",
+        "list":"+20"
+    },
+    {
+        "country":"俄罗斯",
+        "list":"+157"
+    },
+    {
+        "country":"美国",
+        "list":"+36"
+    },
+    {
+        "country":"澳大利亚",
+        "list":"+61"
+    },
+    {
+        "country":"瑞士",
+        "list":"+65"
+    },
+    {
+        "country":"英国",
+        "list":"+55"
+    },
+    {
+        "country":"意大利",
+        "list":"+75"
+    }
+
+]
